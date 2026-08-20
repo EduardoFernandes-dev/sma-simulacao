@@ -1,0 +1,18 @@
+{
+    "ambiente": "farol",
+    "largura": 10,
+    "altura": 10,
+    "densidade_obstaculos": 0.1,
+    "farol": [9, 9],
+    "inicio": [0, 0],
+    "recompensas": {
+        "objetivo": 100.0,
+        "passo": -0.2,
+        "colisao": -5.0,
+        "aproximar": 1.0,
+        "afastar": -1.0
+    },
+    "max_passos": 200,
+    "max_episodios": 500,
+    "delay_passo": 0.0
+}

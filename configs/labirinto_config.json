@@ -1,0 +1,13 @@
+{
+    "largura": 11,
+    "altura": 11,
+    "inicio": [1, 1],
+    "saida": [9, 9],
+    "recompensas": {
+        "objetivo": 100.0,
+        "passo": -0.1,
+        "colisao": -5.0,
+        "aproximar": 1.0,
+        "afastar": -1.0
+    }
+}
